@@ -3,6 +3,8 @@
 Welcome to my GitHub profile!  
 I'm a 14-year-old tech enthusiast and creator, passionate about coding, innovation, and pushing the boundaries of what's possible. My main goal right now? Building a new, modern operating system: **XiOS**!
 
+## Support me.
+<a href="https://www.buymeacoffee.com/xi_self13"><img src="https://img.buymeacoffee.com/button-api/?text=Support&emoji=&slug=xi_self13&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 ---
 
 ## 🚀 Featured Projects
